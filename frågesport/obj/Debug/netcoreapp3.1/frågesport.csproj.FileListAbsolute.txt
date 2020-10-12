@@ -1,0 +1,13 @@
+C:\PRogrammering\Frågesport\frågesport\bin\Debug\netcoreapp3.1\frågesport.exe
+C:\PRogrammering\Frågesport\frågesport\bin\Debug\netcoreapp3.1\frågesport.deps.json
+C:\PRogrammering\Frågesport\frågesport\bin\Debug\netcoreapp3.1\frågesport.runtimeconfig.json
+C:\PRogrammering\Frågesport\frågesport\bin\Debug\netcoreapp3.1\frågesport.runtimeconfig.dev.json
+C:\PRogrammering\Frågesport\frågesport\bin\Debug\netcoreapp3.1\frågesport.dll
+C:\PRogrammering\Frågesport\frågesport\bin\Debug\netcoreapp3.1\frågesport.pdb
+C:\PRogrammering\Frågesport\frågesport\obj\Debug\netcoreapp3.1\frågesport.csprojAssemblyReference.cache
+C:\PRogrammering\Frågesport\frågesport\obj\Debug\netcoreapp3.1\frågesport.AssemblyInfoInputs.cache
+C:\PRogrammering\Frågesport\frågesport\obj\Debug\netcoreapp3.1\frågesport.AssemblyInfo.cs
+C:\PRogrammering\Frågesport\frågesport\obj\Debug\netcoreapp3.1\frågesport.csproj.CoreCompileInputs.cache
+C:\PRogrammering\Frågesport\frågesport\obj\Debug\netcoreapp3.1\frågesport.dll
+C:\PRogrammering\Frågesport\frågesport\obj\Debug\netcoreapp3.1\frågesport.pdb
+C:\PRogrammering\Frågesport\frågesport\obj\Debug\netcoreapp3.1\frågesport.genruntimeconfig.cache
